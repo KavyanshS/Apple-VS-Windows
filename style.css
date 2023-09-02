@@ -1,0 +1,39 @@
+#Apple{
+    color: white;
+    font-family: Sofia;
+}
+#Windows{
+   color: rgb(0, 149, 255);
+   font-family: Sofia;
+}
+body{
+    background-color: black;
+    color: aliceblue; 
+}
+#VS{
+    color: red;
+    font-family: Sofia;
+}
+#vsimage{
+    display: inline-block;
+    width: 90%;
+}
+img{
+    width: 35%;
+}
+#apple-images{
+    width: 60%;
+    height: 600px;
+    background-color:grey;
+    float: right;
+    margin-top:-200px;
+}
+.img-apple{
+    width: 49%;
+    height: 200px;
+    float:left;
+    
+}
+.img-apple:hover{
+    transform: scale(1.2);
+}
